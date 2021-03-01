@@ -1,0 +1,98 @@
+
+#foot{
+	height:450px;
+	margin:0;
+	padding:0;
+	bottom:0;
+	box-sizing:border-box;
+	
+	background-color:#212121;
+	color:#757575;
+	}
+	#foot> div{
+		position:relative;
+		margin:0 auto;
+		padding:0;
+		height:400px;
+		width:1298px;
+	}
+	
+	#foot> div > a:nth-child(1){
+	position:absolute;
+	float:right;
+	right:0;
+	font-size:0;
+	margin: 10px;
+	padding:0;
+	width:300px;
+	height:300px;
+	display:block;
+	background:url(../towermovil/unnamed.png) center center no-repeat;
+	
+	
+}
+	#foot> div> div:nth-child(2){
+		
+		margin:10px 0 0 150px;
+		padding:5px;
+		position:absolute;
+		float:left;
+		left:0;
+		top:0;
+		
+	}
+	#redes{
+		width:300px;
+		height:200px;
+		margin:300px 0 0 150px;
+		padding:0;
+		position:absolute;
+		float:left;
+		left:0;
+		bottom:0;
+		
+	
+	}
+	#redes> a{
+	display:block;
+	
+	padding:0;
+	width:90px;
+	height:91px;
+	font-size:20px;
+	text-decoration:none;
+	background-image:url(../img/iconos-para-redesv3.jpg);
+	
+	position:absolute;
+	font-size:0;
+	
+	
+	box-shadow: 3px 3px 5px black;
+	border-top-left-radius: 100% 100%;
+	border-top-right-radius: 100% 100%;
+	border-bottom-right-radius: 100% 100%;
+	border-bottom-left-radius: 100% 100%;
+	
+	transform: scale( 0.7 );
+	-webkit-filter: grayscale( 1 );
+	transition: 0.24s;
+}
+#redes> a:nth-child(2){margin:0 0 0 160px;
+	background-position:-31px -256px;
+	background-repeat:no-repeat;
+	border:1px solid red;
+	
+	}
+#redes> a:nth-child(1){margin:0;
+	background-position:-31px -50px;
+	border:1px solid blue;}
+	
+#redes> a:nth-child(3){margin:0 0 0 80px;
+	color:pink; 
+	background-position:245px 143px;
+	border:1px solid green;
+	}
+#redes> a:hover{
+	transform: scale( 1 );
+	-webkit-filter: grayscale( 0 );
+}

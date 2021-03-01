@@ -1,0 +1,321 @@
+
+#Ho{
+	color:#000000;
+}
+#pe{
+	color:#000000;
+}
+#hi{
+	color:#000000;
+}
+#ma{
+	color:#000000;
+}
+#ga{
+	color:#f1da36;
+}
+#fo{
+	color:#000000;
+}
+
+#body{
+	width:1298px;
+	margin:0 auto;
+	padding:0 0 500px 0;
+	background:url(../img/linial.png) no-repeat center center #ffffff fixed;
+}
+
+#imggg{
+	margin:0 auto;
+	padding:0;
+	border:1px solid transparent;
+	
+}
+#joder{
+	margin:0 auto;
+	padding:0;
+	width:1298px;
+	height:125px;
+}
+#joder ol{
+	margin:0;
+	padding:0;
+}
+#joder li{
+
+	margin:20px 0 10px 250px;
+	padding:0;
+	height:100px;
+	width:250px;
+	display:inline-block;
+	border:1px solid #000;
+}
+#joder li a{
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	display:block;
+	text-align:center;
+	font-size:23px;
+	color:#000;
+	
+}
+#joder li a:hover{
+	color:#f1da36;
+	background:#000000;
+	
+}
+.row{
+	width:100%;
+}
+.desplaza_down{margin-top:20px;}
+.float_l{float:left;}
+.float_r{float:right;}
+.colag{
+	width:645px;
+	display:inline-block;
+
+}
+.height_500{
+	height:550px;
+}
+.width_600{
+	width:600px;
+}
+.h2{
+	margin:10px auto;
+	padding:10px;
+	
+}
+.espacio{
+	padding-bottom:20px;
+}
+#gal{
+	margin:0 0 0 20px;
+	padding:0;
+	position:relative;
+	float:left;
+	left:0;
+}
+#gal>li{
+	display:block;
+	margin:0;
+	padding:0;
+}
+#gal li:nth-child(1){
+	position:absolute;
+	width:312px;
+	height:168px;
+	top:0;
+	right:0;
+	
+}#gal li:nth-child(1)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(1)>a>img{
+	display:block;
+	border:1px solid red;
+}
+
+#gal li:nth-child(2){
+	position:absolute;
+	width:271px;
+	height:120px;
+	
+}#gal li:nth-child(2)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(2)>a>img{
+	display:block;
+	border:1px solid red;
+}
+	
+#gal li:nth-child(3){
+	bottom:0;
+	left:0;
+	position:absolute;
+	width:202px;
+	height:255px;
+}#gal li:nth-child(3)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(3)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gal li:nth-child(4){
+	right:0;
+	top:175px;
+	
+	position:absolute;
+	width:105px;
+	height:150px;
+}#gal li:nth-child(4)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(4)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gal li:nth-child(5){
+	bottom:0;
+	right:0;
+
+	position:absolute;
+	width:120px;
+	height:160px;
+}#gal li:nth-child(5)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(5)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gal li:nth-child(6){
+	right:125px;
+	bottom:0;
+	position:absolute;
+	width:208px;
+	height:277px;
+}#gal li:nth-child(6)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gal li:nth-child(6)>a>img{
+	display:block;
+	border:1px solid red;
+}
+
+#gall{
+	margin:0 20px 0 0;
+	padding:0;
+	position:relative;
+	float:right;
+	right:0;
+}
+
+#gall li:nth-child(1){
+	position:absolute;
+
+	
+}#gall li:nth-child(1)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(1)>a>img{
+	display:block;
+	border:1px solid red;
+}
+
+#gall li:nth-child(2){
+	position:absolute;
+	left:190px;
+	top:130px;
+	
+}#gall li:nth-child(2)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(2)>a>img{
+	display:block;
+	border:1px solid red;
+}
+	
+#gall li:nth-child(3){
+	right:0;
+	top:150px;
+	position:absolute;
+	
+}#gall li:nth-child(3)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(3)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gall li:nth-child(4){
+	right:0;
+	bottom:0;
+	position:absolute;
+	
+}#gall li:nth-child(4)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(4)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gall li:nth-child(5){
+	bottom:0;
+	left:0;
+	position:absolute;
+	
+}#gall li:nth-child(5)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(5)>a>img{
+	display:block;
+	border:1px solid red;
+}
+#gall li:nth-child(6){
+	right:0;
+	top:0;
+	
+	position:absolute;
+	
+}#gall li:nth-child(6)>a{
+	display:block;
+	width:100%;
+	height:100%;
+	
+}#gall li:nth-child(6)>a>img{
+	display:block;
+	border:1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,233 @@
+
+#Ho{
+	color:#000000;
+}
+#pe{
+	color:#f1da36;
+}
+#hi{
+	color:#000000;
+}
+#ma{
+	color:#000000;
+}
+#ga{
+	color:#000000;
+}
+#fo{
+	color:#000000;	
+}
+
+#zero{
+	box-sizing:border-box;
+	margin:25px auto;
+	padding:0;
+	width:1000px;
+	height:900px;
+	position:relative;
+	font-size:19px;
+	
+	}
+.parte{
+	position:absolute;
+	margin:0 auto;
+	padding:0 0 0 0;
+	width:1000px;
+	height:800px;
+	border-bottom:3px solid #000000;
+	background-color:#ffffff;
+	z-index:2;
+	overflow:hidden;
+	}
+	
+ol{
+	position:relative;
+	margin:0 auto;
+	padding:0;
+	border:1px solid transition;
+	width:1100px;
+	height:242px;
+}
+ol > li {
+	box-sizing:border-box;
+	width:162px;
+	height:185px;
+	margin:0 0 0 50px;
+	padding:0;
+	display:inline-block;
+	
+}
+ol> li> a{
+	box-sizing:border-box;
+	display:block;
+	width:162px;
+	height:185px;
+	margin:0;
+	padding:0;
+	color:red;
+	border:1px solid #000000;
+	font-size:0;
+		
+	box-shadow: 3px 3px 5px black;
+	border-top-left-radius: 100% 100%;
+	border-top-right-radius: 100% 100%;
+	border-bottom-right-radius: 100% 100%;
+	border-bottom-left-radius: 100% 100%;
+	
+	transition: 0.24s;
+	
+}
+
+#baam{
+	background:url(../img/person/person.png) no-repeat -15px -5px;
+	
+}
+#baam:hover{
+		background:url(../img/person/person.png) no-repeat -181px -5px;
+	
+}
+#koon{
+	background:url(../img/person/person.png) no-repeat -15px -190px;
+}
+#koon:hover{
+	background:url(../img/person/person.png) no-repeat -181px -190px;
+	
+}
+#rachel{
+	background:url(../img/person/person.png) no-repeat -13px -561px;
+}
+#rachel:hover{
+	background:url(../img/person/person.png) no-repeat -180px -561px;
+}
+#rak{
+	background:url(../img/person/person.png) no-repeat -15px -746px;
+}
+#rak:hover{
+	background:url(../img/person/person.png) no-repeat -181px -746px;
+}
+#yuri{
+	background:url(../img/person/person.png) no-repeat -8px -374px;
+}
+#yuri:hover{
+	background:url(../img/person/person.png) no-repeat  -181px -374px;
+}
+.parte h2{ 
+
+font-size:30px;
+}
+
+#parte1{
+	z-index:2;
+	background:url(../img/person/baamper.jpg) center center no-repeat;
+}
+#parte1 h2{
+	margin:20px 0 0 0;
+	padding:0 auto;
+	text-align:center;
+	
+}
+#parte1 p{
+	margin:50px 0 0 250px;
+	padding:30px 20px 0px 20px;
+	width:400px;
+	height:600px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9fcf7+0,f5f9f0+100&0.36+0,0.36+100;L+Green+3D */
+background: -moz-linear-gradient(top,  rgba(249,252,247,0.36) 0%, rgba(245,249,240,0.36) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(249,252,247,0.36) 0%,rgba(245,249,240,0.36) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(249,252,247,0.36) 0%,rgba(245,249,240,0.36) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5cf9fcf7', endColorstr='#5cf5f9f0',GradientType=0 ); /* IE6-9 */
+
+}
+
+#parte2{
+	z-index:1;
+	background:url(../img/person/koonper.jpg) center center no-repeat;
+}
+#parte2 h2{
+	margin:100px 0 0 200px;
+}
+#parte2 p{
+	margin:190px 0 0 400px;
+	padding:30px;
+	width:500px;
+	height:600px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9fcf7+0,f5f9f0+100&0.36+0,0.36+100;L+Green+3D */
+background: -moz-linear-gradient(top,  rgba(249,252,247,0.36) 0%, rgba(245,249,240,0.36) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(249,252,247,0.36) 0%,rgba(245,249,240,0.36) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(249,252,247,0.36) 0%,rgba(245,249,240,0.36) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5cf9fcf7', endColorstr='#5cf5f9f0',GradientType=0 ); /* IE6-9 */
+
+}
+#parte3{
+	
+	z-index:1;
+	
+	color:#ffffff;
+	background:url(../img/person/rakper.jpg) center center no-repeat;
+}
+#parte3 h2{
+	margin:70px 0 0 100px;
+}
+
+#parte3 p{
+	width:500px;
+	height:600px;
+	padding:20px;
+	margin:150px 0 0 80px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#370c09+1,370c09+1,370c09+100&0.36+0,0.36+100 */
+background: -moz-linear-gradient(top,  rgba(55,12,9,0.36) 0%, rgba(55,12,9,0.36) 1%, rgba(55,12,9,0.36) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(55,12,9,0.36) 0%,rgba(55,12,9,0.36) 1%,rgba(55,12,9,0.36) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(55,12,9,0.36) 0%,rgba(55,12,9,0.36) 1%,rgba(55,12,9,0.36) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c370c09', endColorstr='#5c370c09',GradientType=0 ); /* IE6-9 */
+
+}
+
+#parte4{
+	z-index:1;
+	
+	color:#ffffff;
+	background:url(../img/person/yuriper.jpg) center center no-repeat;
+}
+#parte4 h2{
+	margin:50px 0 0 0;
+	padding:0 0 0 500px;
+}
+
+#parte4 p{
+	margin:70px 0 0 380px;
+	padding:20px;
+	width:300px;
+	height:600px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#370c09+1,c83c32+1,c83c32+100&0.36+0,0.36+100 */
+background: -moz-linear-gradient(top,  rgba(200,60,50,0.36) 0%, rgba(200,60,50,0.36) 1%, rgba(200,60,50,0.36) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(200,60,50,0.36) 0%,rgba(200,60,50,0.36) 1%,rgba(200,60,50,0.36) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(200,60,50,0.36) 0%,rgba(200,60,50,0.36) 1%,rgba(200,60,50,0.36) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5cc83c32', endColorstr='#5cc83c32',GradientType=0 ); /* IE6-9 */
+
+}
+
+#parte5{
+	z-index:1;
+	color:#ffffff;
+	
+	background:url(../img/person/rachelper.jpg) center center no-repeat;
+}
+#parte5 h2{
+	margin: 100px 0 0 50px;
+}
+#parte5 p{
+	
+	height:600px;
+	width:400px;
+	margin:50px 0 0 425px;
+	padding:20px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#370c09+1,b2a22d+1,b2a22d+100&0.36+0,0.36+100 */
+background: -moz-linear-gradient(top,  rgba(178,162,45,0.36) 0%, rgba(178,162,45,0.36) 1%, rgba(178,162,45,0.36) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(178,162,45,0.36) 0%,rgba(178,162,45,0.36) 1%,rgba(178,162,45,0.36) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(178,162,45,0.36) 0%,rgba(178,162,45,0.36) 1%,rgba(178,162,45,0.36) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5cb2a22d', endColorstr='#5cb2a22d',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+

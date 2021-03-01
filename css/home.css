@@ -1,0 +1,358 @@
+
+#Ho{
+	color:#f1da36;
+}
+#pe{
+	color:#000000;
+}
+#hi{
+	color:#000000;
+}
+#ma{
+	color:#000000;
+}
+#ga{
+	color:#000000;
+}
+#fo{
+	color:#000000;
+}
+
+
+#inf{
+	width:1000px;
+	height:800px;
+	margin:50px auto;
+	padding:0;
+
+	position:relative;
+	
+}
+#inf ul{
+	color:#000000;
+	margin:0px;
+	padding:0px;
+	width:100px;
+	height:800px;
+	 background-color: #ffffff;
+}
+#inf li {
+	margin:0px;
+	padding:0px;
+	width:100px;
+	height:400px;
+	list-style-type:none;
+
+}
+#inf li a{
+	display:block;
+	margin:0px;
+	padding:0px;
+	width:100px;
+	height:400px;
+	font-size:0;
+	text-decoration:none;
+}
+#mmm{
+	background:url(../img/home/acc.png) no-repeat right top;
+}
+#mmm:hover{
+	background:url(../img/home/acc.png) no-repeat right top;
+}
+#acc{
+	background:url(../img/home/acc.png) no-repeat left bottom;
+}
+#acc:hover{
+	background:url(../img/home/acc.png) no-repeat right bottom;
+}
+#parte1{
+	z-index:2;
+	position:absolute;
+	float:right;
+	width:900px;
+	margin:0;
+	height:800px;
+	padding:0;
+	top:0;
+	right:0;
+    background-color: #ffffff;
+
+	
+}
+#parte1 h2 ,#parte2 h2{
+	font-size:0;
+}
+
+#movil h3{
+	float:left;
+	top:0;
+	right:0;
+	left:0;
+	width:600px;
+	height:80px;
+	margin:45px 0 0 10px;
+	padding:0;
+	border:1px solid transparent;
+	font-family:changamedium;
+	font-size:42px;
+	display:block;
+	color:#000000;
+}
+#movil p{
+	margin:20px 0 0 20px;
+	padding:10px;
+	font-size:18px;
+	background: rgba( 255,255,255, 0.7);
+	color:#f1da36;
+}
+#movil p:nth-child(3){
+	
+	width:750px;
+	margin:20px 70px 0 30px;
+	padding:180px 10px 10px 10px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+56,000000+100&0+47,0.46+48,0.46+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,0) 47%, rgba(0,0,0,0.46) 48%, rgba(0,0,0,0.46) 56%, rgba(0,0,0,0.46) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 47%,rgba(0,0,0,0.46) 48%,rgba(0,0,0,0.46) 56%,rgba(0,0,0,0.46) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,0) 47%,rgba(0,0,0,0.46) 48%,rgba(0,0,0,0.46) 56%,rgba(0,0,0,0.46) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#75000000',GradientType=0 ); /* IE6-9 */
+
+}
+#movil p:nth-child(4){
+	margin:20px 120px 0 30px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.46+0,0.46+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,0.46) 0%, rgba(0,0,0,0.46) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,0.46) 0%,rgba(0,0,0,0.46) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,0.46) 0%,rgba(0,0,0,0.46) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75000000', endColorstr='#75000000',GradientType=0 ); /* IE6-9 */
+
+}
+#movil p:nth-child(5){
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.46+0,0.46+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,0.46) 0%, rgba(0,0,0,0.46) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,0.46) 0%,rgba(0,0,0,0.46) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,0.46) 0%,rgba(0,0,0,0.46) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75000000', endColorstr='#75000000',GradientType=0 ); /* IE6-9 */
+
+
+	margin:20px 120px 0 30px;
+}
+#icon{
+	float:left;
+	top:0;
+	right:0;
+	left:0;
+	width:150px;
+	height:150px;
+	margin:20px 0 0 30px;
+	padding:0 0 0 0 ;
+	border:1px solid green;
+	background:url(../towermovil/icono.png) center center no-repeat;
+	border-top-left-radius: 20% 20%;
+	border-top-right-radius: 20% 20%;
+	border-bottom-right-radius: 20% 20%;
+	border-bottom-left-radius: 20% 20%;
+}
+#movil{
+	width:900px;
+	margin:-20px 0 0 0;
+	height:800px;
+	padding:0;
+	
+	
+	background:url(../img/home/baam.png) no-repeat right top;
+
+}
+#movil a{
+	box-shadow: 3px 3px 5px black;
+	border-top-left-radius:5% 14%;
+	border-top-right-radius: 5% 13%;
+	border-bottom-right-radius: 5% 14%;
+	border-bottom-left-radius: 5% 13%;
+	
+	width:400px;
+	height:130px;
+	margin:50px 0 0 20px;
+	padding:0;
+	background:url(../towermovil/Android_App_Store_Logo.jpg) center center no-repeat;
+	display:block;
+	font-size:0;
+	position:static;
+}
+
+#parte2{
+	z-index:1;
+	position:absolute;
+	float:right;
+	width:900px;
+	margin:0;
+	height:800px;
+	padding:0;
+	 background-color: #ffffff;
+	bottom:0;
+	right:0;
+	
+
+}
+#parte2 h3{
+	margin:0px auto 0 auto;
+	padding:0;
+	width:700px;
+	color:#000000;
+	font-size:70px;
+	
+}
+#parte2 p{
+	margin:-200px auto 0 auto;
+	padding:20px;
+	color:#ffffff;
+	width:500px;
+	
+	font-size:30px;
+	background: rgba( 255,255,255, 0.2);
+	
+}
+#imgg{
+	margin:-250px auto 0 auto;
+	padding:0;
+	display:block;
+	width:900px;
+	height:700px;
+	background:url(../img/home/wananD3.jpg) no-repeat center center;
+	
+}
+#main{
+    margin: 0;
+
+    padding: 0;
+    background:#000000;
+	padding-bottom:85px;
+}
+
+#minigaleria{
+	
+	width:1300px;
+	margin: 0 auto 0 auto;
+	padding:30px 0 0 0;
+	 background:url(../img/baam-home.jpg) no-repeat bottom left fixed,
+	url(../img/fantasma.jpg) no-repeat top right fixed;
+	
+}
+#video{
+	width:560px;
+	margin: 0 auto 0 auto;
+	padding:30px 0 0 0;
+	background-color: transparent;
+}
+#gal{
+	background-color: transparent;
+	width:680px;
+	margin:0 auto;
+	padding:0;
+	
+	
+}
+#gal>li{
+	list-style-type: none;
+	margin:20px;
+	padding:0;
+	width:300px;
+	height:165px;
+	display:inline-block;
+}
+#gal>li>a{
+	text-decoration:none;
+}
+#foot{
+	z-index:5;
+	height:75px;
+	margin:0;
+	padding:0;
+	transition: height .51s;
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	background:url(../img/home/fondo2.jpg) no-repeat center top #000000;
+	
+	}
+
+#foot>a:nth-child(1){
+	z-index:9;
+	margin:0 auto 0 auto;
+	padding:0;
+	background:url(../img/home/botones.jpg) no-repeat 0px -80px #ffffff;
+	width:300px;
+	height:65px;
+	display:block;
+	font-size:0;
+	border:1px solid #000000;
+	border-top-left-radius:12% 46%;
+	border-top-right-radius: 13% 46%;
+	border-bottom-right-radius: 13% 46%;
+	border-bottom-left-radius: 13% 46%;
+}
+#foot>a:nth-child(2){
+	z-index:7;
+	margin:-65px auto 0 auto;
+	padding:0;
+	background:url(../img/home/botones.jpg) no-repeat 0px -5px  ;
+	width:300px;
+	height:65px;
+	display:none;
+	font-size:0;
+	border:1px solid #000000;
+	border-top-left-radius:12% 46%;
+	border-top-right-radius: 13% 46%;
+	border-bottom-right-radius: 13% 46%;
+	border-bottom-left-radius: 13% 46%;
+}
+#conttt{
+	
+	margin:10px auto 10px auto;
+	
+	width:1366px;
+	height:300px;
+	padding:0;
+	position:relative;
+	background:#000000;
+	background: url(../towermovil/desenfoque.jpg)  no-repeat center bottom;
+	
+}
+#iconn{
+	z-index:9;
+	font-size:0;
+	margin:0 0 0 130px;
+	padding:0;
+	width:955px;
+	height:300px;
+	display:block;
+	position: absolute;
+	background:url(../towermovil/kbp_towerofgod_banner2.png) center bottom no-repeat;
+	
+}
+#web{
+	z-index:11;
+	position: absolute;
+	float:right;
+	right:0;
+	font-size:0;
+	margin:50px 75px 0 0;
+	padding:0;
+	width:200px;
+	height:200px;
+	display:block;
+	background:url(../towermovil/webtoon_200_200.jpg) center center no-repeat;
+	
+	border: 1px transparent solid;
+	border-top-left-radius: 25% 25%;
+	border-top-right-radius: 25% 25%;
+	border-bottom-right-radius: 25% 25%;
+	border-bottom-left-radius: 25% 25%;
+
+}
+#redes{
+	
+	width:300px;
+	margin:0 0 0 35px;
+}
+

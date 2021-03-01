@@ -1,0 +1,112 @@
+
+
+#Ho{
+	color:#000000;
+}
+#pe{
+	color:#000000;
+}
+#hi{
+	color:#f1da36;
+}
+#ma{
+	color:#000000;
+}
+#ga{
+	color:#000000;
+}
+#fo{
+	color:#000000;
+}
+
+#body{
+	margin:0 0 0 0;
+	padding:0;
+	
+	height:1000px;
+	background-color:#000000;
+	background:url(../img/background2.jpg) no-repeat center top;
+	
+}
+#zero{
+	
+	width:1298px;
+	height:1000px;
+	margin:0 auto;
+	padding:0;
+	border:1px solid transparent;
+	background:url(../img/background2.jpg) no-repeat center top;
+}
+#zero h2{
+	width:800px;
+	height:140px;
+	  font-family: 'changasemibold';
+	font-size:30px;
+	color:#b2a22d;
+	margin:50px auto 0px auto; 
+	padding:5px 30px 5px 30px;
+	text-align:center;
+	border:1px transparent solid;
+	
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.35+0,0.35+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.35) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,0.35) 0%,rgba(0,0,0,0.35) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,0.35) 0%,rgba(0,0,0,0.35) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000', endColorstr='#59000000',GradientType=0 ); /* IE6-9 */
+
+}
+#zero p{
+	color:#ffffff;
+	margin:0;
+	padding:0;
+	border:1px solid transparent;
+	font-size:18px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.35+0,0.35+100 */
+background: -moz-linear-gradient(top,  rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.35) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(0,0,0,0.35) 0%,rgba(0,0,0,0.35) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(0,0,0,0.35) 0%,rgba(0,0,0,0.35) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000', endColorstr='#59000000',GradientType=0 ); /* IE6-9 */
+
+}
+
+#zero p:nth-child(2){
+	
+	margin:0 90px 0 90px;
+	padding:20px;
+}
+#zero p:nth-child(3){
+	
+	margin:0 90px 0 90px;
+	padding:20px;
+}
+#zero p:nth-child(4){
+	
+	margin:0 90px 0 90px;
+	padding:20px;
+}
+#zero p:nth-child(5){
+	
+	margin:0 90px 0 90px;
+	padding:20px;
+}
+#zero p:nth-child(6){
+	
+	margin:0 100px 0 80px;
+	padding:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

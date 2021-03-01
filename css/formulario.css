@@ -1,0 +1,301 @@
+
+#Ho{
+	color:#000000;
+}
+#pe{
+	color:#000000;
+}
+#hi{
+	color:#000000;
+}
+#ma{
+	color:#000000;
+}
+#ga{
+	color:#000000;
+}
+#fo{
+	color:#f1da36;
+}
+#uno{
+background:#f1da36 ;}
+
+
+#body{
+	margin:0;
+	padding:0;
+	
+	background:url(../img/evento/urek.png) left bottom repeat-x #ffffff;
+}
+#bottoo{
+	width:1000px;
+	margin:0 auto;
+	padding:0;
+	
+}
+#bottoo ol{
+	width:1000px;
+	height:50px;
+	margin:0 auto;
+	padding:0;
+}
+#bottoo li{
+	display:inline-block;
+	margin:0;
+	padding:0;
+	width:20%;
+	height:50px;
+
+}
+#bottoo a{
+	font-family: 'changasemibold';
+	font-size:20px;
+	color:#000000;
+	margin:0;
+	height:50px;
+	padding:0;
+	width:100%;
+	display:block;
+	
+	text-align:center;
+	text-decoration:none;
+	
+}
+#bottoo a:hover{
+	color:#f1da36;
+}
+#zero{
+	width:1298px;
+	padding:0;
+	border:1px solid transparent;
+	margin:0 auto;
+	
+}
+#zero h2{
+	text-align:center;
+	margin:50px 0 0 0;
+	padding:0;
+	font-size:25px;
+	font-family:'changasemibold';
+}
+#zero p{
+	margin:0 auto 50px auto;
+	padding:10px;
+	width:600px;
+	font-size:20px;
+}
+
+#evento{
+		width:1000px;
+		height:800px;
+	padding:0;
+	margin:0 auto 0 auto;
+	position:relative;
+
+}
+
+input:focus{
+	background-color:#dace15;
+}
+
+#parte1, #parte2, #parte3, #parte4, #parte5{
+	margin:0 auto 0 auto;
+	padding:0;
+	width:1000px;
+	height:600px;
+	background-color:#ffffff;
+	position:absolute;
+	font-size:19px;
+}
+fieldset{
+	margin:0 auto;
+	padding:0;
+	background:url(../img/evento/background6.jpg) no-repeat center center;
+	width:1000px;
+	height:600px;
+}
+.per{
+	width:600px;
+	float:left;
+	margin:28px 0 0 10px;
+	padding:5px 5px 5px 10px;
+	border:1px solid transparent;
+}
+#fe{
+	float:left;
+	width:400px;
+	margin:10px 20px 0 10px;
+	padding:5px;
+	display:block;
+
+}
+#sexo1{
+	margin:-320px 0 0 0;
+	padding:0;
+	width:300px;
+	height:125px;
+	background-color:transparent;
+	float:right;
+
+}
+#sexo1 span{
+	margin:0;
+	padding:0;
+	border:1px solid transparent;
+}
+.sexo{
+	margin:0;
+	padding:5px;
+	border:1px solid transparent;
+}
+#estado1{
+	margin:-100px 0 0 0;
+	width:300px;
+	height:125px;
+	float:right;
+	top:0;
+	right:0;
+}
+#estado1 span{
+	margin:0;
+	padding:0;
+	border:1px solid transparent;
+}
+.estado{
+	margin:0;
+	padding:5px;
+	border:1px solid transparent;
+}
+
+
+.reg{
+	border:1px solid transparent;
+	margin:30px auto 0 auto;
+	padding:15px;
+	width:600px;
+}
+.casc{
+	margin:50px auto 15px auto;
+	padding:20px;
+	border:1px solid transparent;
+	width:300px;
+}
+
+#parece0{
+	float:left;
+	width:400px;
+	margin:10px 0 0 0;
+	padding:0 0 0 20px;
+
+}
+#parece0 span{
+	width:400px;
+	margin:0;
+	padding:5px;
+	border:1px solid transparent;
+}
+.parece000{
+	width:400px;
+	margin:0;
+	padding:10px;
+	border:1px solid transparent;
+
+}
+#parece00{
+	float:right;
+	width:400px;
+	margin:10px 0 0 0;
+	padding:0;
+	border:1px solid transparent;
+}
+#parece00 span{
+	margin:0;
+	padding:5px;
+	border:1px solid transparent;
+	
+}
+.parece0000{
+	width:450px;
+	height:100px;
+	margin:0;
+	padding:0;
+	border:1px solid transparent;
+}
+
+#musicc{
+	width:600px;
+	height:300px;
+	margin:30px 0 0 20px;
+	padding:0px;
+	border:1px solid transparent;
+}
+.selecc{
+	margin:5px 0 0 20px;
+	padding:5px;
+	border:1px solid transparent;
+}
+
+#intereces{
+	width:400px;
+	height:250px;
+	margin:-300px 30px	0 0;
+	padding:0;
+	border:1px solid transparent;
+	float:right;
+}
+.inttt{
+	margin:0;
+	padding:10px;
+	border:1px solid transparent;
+	
+}
+#comen{
+	width:600px;
+	margin:50px auto 20px auto;
+	padding:5px;
+	border:1px solid transparent;
+	
+}
+	textarea{ resize: none; }
+.conf{
+	width:600px;
+	margin:10px auto 10px auto;
+	padding:5px;
+	border:1px solid transparent;
+}
+#enviar{
+	width:100px;
+	margin:70px 0 0 400px;
+	padding:20px;
+	border:1px solid transparent;
+
+}
+legend{
+	 font-family: 'changasemibold';
+	 font-size:20px;
+	 background-color:#ffffff;
+	 margin:5px;
+	 padding:2px;
+	 border-left:1px solid #000000;
+	 border-right:1px solid #000000;
+	 border-bottom:1px solid #000000;
+}
+#parte1{
+	z-index:3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
