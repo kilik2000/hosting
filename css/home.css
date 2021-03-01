@@ -227,14 +227,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75000000', e
     background:#000000;
 	padding-bottom:85px;
 }
+#alma{
+	margin: 0;
+
+    padding: 0;
+
+	background:url(../img/baam-home.jpg) no-repeat bottom left fixed,
+	url(../img/fantasma.jpg) no-repeat top right fixed;
+}
 
 #minigaleria{
 	
 	width:1300px;
 	margin: 0 auto 0 auto;
 	padding:30px 0 0 0;
-	 background:url(../img/baam-home.jpg) no-repeat bottom left fixed,
-	url(../img/fantasma.jpg) no-repeat top right fixed;
+	background: transparent;
 	
 }
 #video{
